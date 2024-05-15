@@ -1,0 +1,56 @@
+{
+  "profiles": [
+    {
+      "id": "1",
+      "name": "Bruce Wayne",
+      "position": "Owner",
+      "contract": false,
+      "job description": "Individual or group with full ownership and responsibility for a business."
+    },
+    {
+      "id": "2",
+      "name": "Oliver Queen",
+      "position": "Manager",
+      "contract": false,
+      "job description": "Oversees operations and employees to achieve business goals."
+    },
+    {
+      "id": "3",
+      "name": "Wally West",
+      "position": "Chief Distributor",
+      "contract": true,
+      "job description": "Leads distribution of products or services to customers."
+    },
+    {
+      "id": "49d8",
+      "name": "12121",
+      "position": "Chief Auditor",
+      "contract": true,
+      "job description": "Manages internal audit functions, assesses financial risk, and provides recommendations for improving organization performance and compliance."
+    },
+    {
+      "id": "f726",
+      "name": "wewe",
+      "position": "Chief Auditor",
+      "contract": true,
+      "job description": "Manages internal audit functions, assesses financial risk, and provides recommendations for improving organization performance and compliance."
+    }
+  ],
+  "branches": [
+    {
+      "id": "abc1",
+      "state": "Metropolis",
+      "Address": "33 kent Street"
+    },
+    {
+      "id": "efg2",
+      "state": "Gotham",
+      "Address": "439 Wayne Estate"
+    },
+    {
+      "id": "ijk3",
+      "state": "Anthens",
+      "Address": "12 Princess Creak Street"
+    }
+  ]
+}
